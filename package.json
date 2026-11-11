@@ -1,0 +1,2 @@
+{"name":"maak","version":"1.0.0","description":"MAAK – mise en relation élèves / étudiants tuteurs (Tunisie)","main":"server/index.js","scripts":{"start":"node server/index.js","test":"node --test"},"engines":{"node":">=20"},
+"dependencies":{"bcryptjs":"^2.4.3","better-sqlite3":"^12.4.1","express":"^4.19.2","jsonwebtoken":"^9.0.2"}}

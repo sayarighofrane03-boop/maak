@@ -1,0 +1,7 @@
+node_modules/
+*.db
+mobile/build/
+mobile/.dart_tool/
+mobile/android/key.properties
+*.jks
+public/downloads/maak.apk
